@@ -8,7 +8,7 @@ My name is Chuong Tran and I'm a software engineer from Da Nang, Viet Nam.
 ![](https://img.shields.io/badge/Editor-Rider_IDEA-informational?style=flat&logo=rider-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c#&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=CSharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
