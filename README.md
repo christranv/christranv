@@ -1,6 +1,11 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Chuong Tran from 🇻🇳
 
+[![Linkedin Badge](https://img.shields.io/badge/-chuongtran-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chuongtranvan/)](https://www.linkedin.com/in/chuongtranvan/)
+[![Twitter Badge](https://img.shields.io/badge/-@chuongtran_27-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chuongtran_27)](https://twitter.com/chuongtran_27)
+[![Gmail Badge](https://img.shields.io/badge/-chuongtran-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chuongtran1999dn@gmail.com)](mailto:chuongtran1999dn@gmail.com)
+
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Rider_IDEA-informational?style=flat&logo=rider-idea&logoColor=white&color=2bbc8a)
