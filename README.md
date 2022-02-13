@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Chuong Tran from 🇻🇳
 
 [![Linkedin Badge](https://img.shields.io/badge/-chuongtran-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chuongtranvan/)](https://www.linkedin.com/in/chuongtranvan/)
-[![Twitter Badge](https://img.shields.io/badge/-@chuongtran_27-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chuongtran_27)](https://twitter.com/chuongtran_27)
+[![Twitter Badge](https://img.shields.io/badge/-@chuongtran27-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chuongtran_27)](https://twitter.com/chuongtran_27)
 [![Gmail Badge](https://img.shields.io/badge/-chuongtran-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chuongtran1999dn@gmail.com)](mailto:chuongtran1999dn@gmail.com)
 
 
