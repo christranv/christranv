@@ -9,7 +9,7 @@
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Rider_IDEA-informational?style=flat&logo=rider-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Core-.NET-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
