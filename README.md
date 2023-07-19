@@ -1,5 +1,4 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chuongtranvan/)
-[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/chuongtran27/)
 [<img src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=white&color=000000" />](https://chuong-tran.medium.com/)
 
 ### Hi there 👋, I'm Chuong
